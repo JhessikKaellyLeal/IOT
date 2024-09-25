@@ -15,7 +15,7 @@ distância toda vez que alguém se aproximar a menos de 1 metro do sensor.
 - 1 Resistor de 1 KOhms
 
 ## Montagem do Circuito
-![Imagem do Circuito](TELALCD.png)
+![Imagem do Circuito](TELA LCD.png)
 
 ## Explicação do Código
 
